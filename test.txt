@@ -3,3 +3,6 @@ enterprise:openshift-orgin vincebailey$ cd openshift-project/
 enterprise:openshift-project vincebailey$ ls
 README.md
 enterprise:openshift-project vincebailey$ touch test.txt
+nowe add some more text 
+then do 
+git pull
