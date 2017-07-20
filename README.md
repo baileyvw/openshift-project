@@ -91,3 +91,5 @@ See the [contribution guide](CONTRIBUTING.md).
 
 See the [build instructions](BUILD.md).
 openshift-project
+
+Just a minor change to the README.MD file
